@@ -2,6 +2,11 @@
 [[constraint]]
   branch = "master"
   name = "github.com/agl/ed25519"
+ 
+ [[constraint]]
+  branch = "master"
+  name = "github.com/decred/dcr"
+  source = "github.com/huyntsgs/dcrd"
 
 [[constraint]]
   branch = "master"
