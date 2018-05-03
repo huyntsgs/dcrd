@@ -5,8 +5,8 @@
  
  [[constraint]]
   branch = "master"
-  name = "github.com/decred/dcr"
-  source = "github.com/huyntsgs/dcrd"
+  name = "github.com/decred/decred/dcrd"
+  source = "github.com/huyntsgs/decred/dcrd"
 
 [[constraint]]
   branch = "master"
